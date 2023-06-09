@@ -82,3 +82,8 @@ a {
 .navbar-nav li a:hover {
     color: #2e72a1 !important;
 }
+
+.pf-img {
+    height: 300px;
+    width: 480px;
+}
