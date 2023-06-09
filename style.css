@@ -84,6 +84,8 @@ a {
 }
 
 .pf-img {
-    height: 300px;
-    width: 520px;
+    height: 350px;
+    width: 560px;
+    display: block;
+    margin: auto;
 }
