@@ -81,8 +81,3 @@ a {
 .navbar-nav li a:hover {
     color: #2e72a1 !important;
 }
-
-.pet-finder-img {
-    width: 560px;
-    height: 300px;
-}
